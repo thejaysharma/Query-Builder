@@ -1,4 +1,3 @@
-import React from 'react'
 import LOGO from "../../assets/Group1.svg"
 import CHART from "../../assets/Chart.svg"
 import CHARTGREY from "../../assets/Chart-grey.svg"
